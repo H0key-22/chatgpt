@@ -23,4 +23,4 @@ IM_START='<|im_start|>'
 IM_END='<|im_end|>'
 
 # chat or generate
-GPT_MODE='generate'
+GPT_MODE='chat'
